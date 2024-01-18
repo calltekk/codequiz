@@ -3,7 +3,7 @@
 Welcome to the Code Quiz! This quiz is designed to test your knowledge of JavaScript, HTML, CSS, and JSON. You can use this quiz as a learning tool, a fun challenge, or even to assess your skills. 
 
 ## Deployed Site
-https://calltekk.github.io/passwordgenerator/
+https://calltekk.github.io/codequiz/
 
 ## Features
 - **Multi-Language Quiz:** The quiz includes questions from JavaScript, HTML, CSS, and JSON to test your proficiency in various web development technologies.
