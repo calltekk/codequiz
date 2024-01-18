@@ -1,88 +1,37 @@
-# Module 6 Challenge Web APIs: Code Quiz
+# Password Generator
+## Overview
+Welcome to the Code Quiz! This quiz is designed to test your knowledge of JavaScript, HTML, CSS, and JSON. You can use this quiz as a learning tool, a fun challenge, or even to assess your skills. 
 
-## Your Task
+## Deployed Site
+https://calltekk.github.io/passwordgenerator/
 
-As you proceed in your journey to becoming a front-end web developer, it’s likely that you’ll be asked to complete a coding assessment, perhaps as part of an interview process. A typical coding assessment is a combination of multiple-choice questions and interactive coding challenges. 
+## Features
+- **Multi-Language Quiz:** The quiz includes questions from JavaScript, HTML, CSS, and JSON to test your proficiency in various web development technologies.
+- **Timer Functionality:** You are challenged by a timer that counts down as you progress through the quiz. Incorrect answers result in a time penalty.
+- **Highscores:** Your scores are stored locally, and you can view highscores at the end of the quiz.
 
-To help you become familiar with these tests and give you a chance to apply the skills from this module, this week’s challenge invites you to build a timed coding quiz with multiple-choice questions. This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean, polished, and responsive user interface. This week’s coursework has taught you all the skills you need to succeed in this challenge.
-
-
-## User Story
-
-```
-AS A coding boot camp student
-I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
-SO THAT I can gauge my progress compared to my peers
-```
-
-## Acceptance Criteria
-
-Create a code quiz that contains the following requirements:
-
-* A start button that when clicked a timer starts and the first question appears.
- 
-  * Questions contain buttons for each answer.
-  * 
-  * When answer is clicked, the next question appears
-  * 
-  * If the answer clicked was incorrect then subtract time from the clock
-
-* The quiz should end when all questions are answered or the timer reaches 0.
-
-  * When the game ends, it should display their score and give the user the ability to save their initials and their score
-  
-## Mock-Up
-
-The following animation demonstrates the application functionality:
-
-![Animation of code quiz. Presses button to start quiz. Clicks the button for the answer to each question, displays if answer was correct or incorrect. Quiz finishes and displays high scores. User adds their intials, then clears their intials and starts over.](./assets/08-web-apis-challenge-demo.gif)
-
-## Grading Requirements
-
-This challenge is graded based on the following criteria: 
-
-### Technical Acceptance Criteria: 40%
-
-* Satisfies all of the above acceptance criteria.
-
-### Deployment: 32%
-
-* Application deployed at live URL.
-
-* Application loads with no errors.
-
-* Application GitHub URL submitted.
-
-* GitHub repository that contains application code.
-
-### Application Quality: 15%
-
-* Application user experience is intuitive and easy to navigate.
-
-* Application user interface style is clean and polished.
-
-* Application resembles the mock-up functionality provided in the challenge instructions.
-
-### Repository Quality: 13%
-
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains quality README file with description, screenshot, and link to deployed application.
+## Usage
+1. Visit the deployed site
+2. Click the "Start" button to begin the quiz.
+3. Answer each question by clicking the appropriate option.
+4. Correct answers will be acknowledged with a "Correct!" message, and incorrect answers will result in a time penalty and a "Wrong!" message.
+5. At the end of the quiz, you can view your final score and submit your initials to see how you compare to others on the high scores list.
 
 
-## Review
+## Screenshot
+![Screenshot 2024-01-18 at 16 06 56](https://github.com/calltekk/codequiz/assets/112567796/de0d5691-c263-4f5c-bff7-c10585f900c5)
+![Screenshot 2024-01-18 at 16 07 21](https://github.com/calltekk/codequiz/assets/112567796/77a8dcee-d12e-40d6-98c9-ab77b6b8b505)
+![Screenshot 2024-01-18 at 16 08 15](https://github.com/calltekk/codequiz/assets/112567796/5ef0e7a2-184f-460f-abb0-a72b2b53fc67)
+![Screenshot 2024-01-18 at 16 08 28](https://github.com/calltekk/codequiz/assets/112567796/ffed71f2-9756-444b-9b67-8874c5072a69)
 
-You are required to submit BOTH of the following for review:
 
-* The URL of the functional, deployed application.
 
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 
----
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
+
+## License
+This project is licensed under the MIT License.
+
+## Acknowledgments
+1. EDX Bootcamps
+2. Justin Moore (Instructor)
